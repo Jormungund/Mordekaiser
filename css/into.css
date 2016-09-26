@@ -1,0 +1,38 @@
+body {
+	background-color: #0000ff;
+	text-align: center;
+	font-size: 40px;
+	color: #cc0000;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+	color: #00ff00;
+	text-align: center;
+	font-size: 50px
+}
+h2 {
+	color: #ff0066;
+	text-align: center;
+	font-size: 35px
+}
+h3 {
+	color: #FF0066;
+	text-align: center;
+	font-size: medium;
+}
+h4 {
+	color: #FF0066;
+	text-align: center;
+	font-size: medium;
+}
+h5 {
+	color: #FF0066;
+	text-align: center;
+	font-size: medium;
+}
+h6 {
+	color: #FF0066;
+	text-align: center;
+	font-size: medium;
+}
